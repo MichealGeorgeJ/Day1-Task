@@ -1,0 +1,31 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP1.1 &HTTP/2
+
+# HTTP stands for hypertext transfer protocol
+# HTTP/1.1 created in 1997 
+# Till now the HTTP/1.1 is used in web commuication
+# It is developed by Timothy Berners-Lee
+# In 2015 new version of HTTP/1.1 which is name as HTTP/2 was developed
+#It has a several features and methods
+#It decrease web page latency and by using techniques such as compression,multiplexing and prioritizion.
+
+------------------
+2.Write a blog about objects and its internal representation in Javascript
+
+#Objects are important data types in javascript.
+# Objects are different than primitive datatypes (i.e. number, string, boolean, etc.).
+# Primitive data types contain one value but Objects can hold many values in form of Key: value pair.
+# These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
+
+#var myCar = new Object();
+
+#myCar.make = 'Suzuki';
+
+#myCar.model = 'Altros';
+
+#myCar.year = 1978;
+
+#myCar.wheels = 2;
+
+#After creating myCar object, the value inside the object can be accessed using keys.
